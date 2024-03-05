@@ -1,0 +1,14 @@
+<svg id="구성_요소_246_4" data-name="구성 요소 246 – 4" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#555;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px}
+        </style>
+    </defs>
+    <path id="사각형_13187" data-name="사각형 13187" style="fill:none" d="M0 0h20v20H0z"/>
+    <g id="그룹_66504" data-name="그룹 66504" transform="translate(-836.74 -2560.296)">
+        <path id="패스_16877" data-name="패스 16877" class="cls-2" d="m661.236 756.362 3.611 2.9 3.661 2.943a.92.92 0 0 0 1.159 0l3.661-2.943 3.616-2.907" transform="translate(177.651 1808.767)"/>
+        <path id="패스_16878" data-name="패스 16878" class="cls-2" d="M674.623 766.671h-12.828a1.889 1.889 0 0 1-1.889-1.889v-7.556a1.889 1.889 0 0 1 1.889-1.889h13.222a1.889 1.889 0 0 1 1.889 1.889v6.995" transform="translate(178.334 1809.291)"/>
+        <path id="선_1312" data-name="선 1312" class="cls-2" transform="translate(841.293 2571.183)" d="M0 2.43 2.158 0"/>
+        <path id="선_1313" data-name="선 1313" class="cls-2" transform="translate(849.874 2571.183)" d="m0 0 2.158 2.43"/>
+    </g>
+</svg>

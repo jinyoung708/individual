@@ -1,0 +1,14 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 30L35.8919 10L68 30" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.01718 26V58.2C8.83813 61.8 9.98403 69 16 69" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M64 28L64 35" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M35.6626 33.3294L35.6612 33.3281C33.8392 31.656 32.407 30.3371 31.4186 29.1132C30.4415 27.9035 30 26.907 30 25.8965C30 24.2495 31.2564 23 32.85 23C33.7612 23 34.6557 23.4345 35.2373 24.1203L36 25.0197L36.7627 24.1203C37.3443 23.4345 38.2388 23 39.15 23C40.7436 23 42 24.2495 42 25.8965C42 26.907 41.5585 27.9035 40.5814 29.1132C39.593 30.3371 38.1608 31.656 36.3388 33.3281L36.3374 33.3294L36 33.6403L35.6626 33.3294Z" fill="white" stroke="white" stroke-width="2"/>
+<circle cx="36.7086" cy="48.9645" r="8.5748" fill="#70D8B9" stroke="white" stroke-width="2"/>
+<path d="M33.1182 50.1611C33.3176 50.959 34.7938 52.5548 36.7087 52.5548C38.6237 52.5548 39.9003 50.959 40.2993 50.1611" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M51.0709 74.4998V71.5076C51.0709 66.1218 45.326 58.3423 36.7087 58.3423C28.0914 58.3423 21.748 66.7202 21.748 71.5076V74.4998" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="63.6383" cy="48.9645" r="8.5748" stroke="white" stroke-width="2"/>
+<path d="M60.0469 50.1611C60.2464 50.959 61.7225 52.5548 63.6374 52.5548C65.5524 52.5548 66.829 50.959 67.228 50.1611" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M52.8662 63.7281C54.0631 61.9328 57.6536 58.3423 63.6379 58.3423C72.2552 58.3423 78.0001 66.1218 78.0001 71.5076V74.4998" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="36.7084" cy="64.9252" r="1.79528" fill="white"/>
+<circle cx="36.7084" cy="70.9093" r="1.79528" fill="white"/>
+</svg>

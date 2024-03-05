@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+/* Noto Sans KR ================================================== */
+@font-face {
+    font-family: "Noto Sans KR";
+    font-weight: 400;
+    font-style: normal;
+    src: url("../fonts/NotoSans/NotoSans-Regular.eot?") format("eot"),
+    url("../fonts/NotoSans/NotoSans-Regular.woff2") format("woff2"),
+    url("../fonts/NotoSans/NotoSans-Regular.woff") format("woff"),
+    url("../fonts/NotoSans/NotoSans-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Noto Sans KR";
+    font-weight: 500;
+    font-style: normal;
+    src: url("../fonts/NotoSans/NotoSans-Medium.eot?") format("eot"),
+    url("../fonts/NotoSans/NotoSans-Medium.woff2") format("woff2"),
+    url("../fonts/NotoSans/NotoSans-Medium.woff") format("woff"),
+    url("../fonts/NotoSans/NotoSans-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Noto Sans KR";
+    font-weight: 700;
+    font-style: normal;
+    src: url("../fonts/NotoSans/NotoSans-Bold.eot?") format("eot"),
+    url("../fonts/NotoSans/NotoSans-Bold.woff2") format("woff2"),
+    url("../fonts/NotoSans/NotoSans-Bold.woff") format("woff"),
+    url("../fonts/NotoSans/NotoSans-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Noto Sans KR";
+    font-weight: 900;
+    font-style: normal;
+    src: url("../fonts/NotoSans/NotoSans-Black.eot") format("eot"),
+    url("../fonts/NotoSans/NotoSans-Black.woff2") format("woff2"),
+    url("../fonts/NotoSans/NotoSans-Black.woff") format("woff"),
+    url("../fonts/NotoSans/NotoSans-Black.otf") format("opentype");
+}
+
+/* Roboto ================================================== */
+@font-face {
+    font-family: "Roboto";
+    font-weight: 300;
+    font-style: normal;
+    src: url("../fonts/Roboto/roboto-light.ttf") format("truetype"),
+    url("../fonts/Roboto/roboto-light.woff2") format("woff2"),
+    url("../fonts/Roboto/roboto-light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-style: normal;
+    src: url("../fonts/Roboto/roboto-regular.ttf") format("truetype"),
+    url("../fonts/Roboto/roboto-regular.woff2") format("woff2"),
+    url("../fonts/Roboto/roboto-regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-style: normal;
+    src: url("../fonts/Roboto/roboto-medium.ttf") format("truetype"),
+    url("../fonts/Roboto/roboto-medium.woff2") format("woff2"),
+    url("../fonts/Roboto/roboto-medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-style: normal;
+    src: url("../fonts/Roboto/roboto-bold.ttf") format("truetype"),
+    url("../fonts/Roboto/roboto-bold.woff2") format("woff2"),
+    url("../fonts/Roboto/roboto-bold.woff") format("woff");
+}
+
+/* GmarketSans ================================================== */
+@font-face {
+    font-family: 'GmarketSans';
+    font-weight: 300;
+    font-style: normal;
+    src: url('../fonts/GmarketSans/GmarketSansLight.eot');
+    src: url('../fonts/GmarketSans/GmarketSansLight.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/GmarketSans/GmarketSansLight.woff2') format('woff2'),
+    url('../fonts/GmarketSans/GmarketSansLight.woff') format('woff'),
+    url('../fonts/GmarketSans/GmarketSansLight.ttf') format("truetype");
+    font-display: swap;
+} 
+
+@font-face {
+    font-family: 'GmarketSans';
+    font-weight: 500;
+    font-style: normal;
+    src: url('../fonts/GmarketSans/GmarketSansMedium.eot');
+    src: url('../fonts/GmarketSans/GmarketSansMedium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/GmarketSans/GmarketSansMedium.woff2') format('woff2'),
+    url('../fonts/GmarketSans/GmarketSansMedium.woff') format('woff'),
+    url('../fonts/GmarketSans/GmarketSansMedium.ttf') format("truetype");
+    font-display: swap;
+} 
+
+@font-face {
+    font-family: 'GmarketSans';
+    font-weight: 700;
+    font-style: normal;
+    src: url('../fonts/GmarketSans/GmarketSansBold.eot');
+    src: url('../fonts/GmarketSans/GmarketSansBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/GmarketSans/GmarketSansBold.woff2') format('woff2'),
+    url('../fonts/GmarketSans/GmarketSansBold.woff') format('woff'),
+    url('../fonts/GmarketSans/GmarketSansBold.ttf') format("truetype");
+    font-display: swap;
+}
